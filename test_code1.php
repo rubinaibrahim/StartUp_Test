@@ -1,4 +1,4 @@
-/*php code for scaling 2 images obtained via a url*/
+/*php code for scaling 2 images obtained via an url*/
 <html>
 <head>
 <title>Untitled Document</title>
