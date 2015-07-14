@@ -1,3 +1,5 @@
+/*This java program displays the scale of difference between two images in percentage that are
+uploaded using url of the corresponding images.*/ 
 import java.awt.image.BufferedImage;
 import javax.imageio.ImageIO;
 import java.io.IOException;
