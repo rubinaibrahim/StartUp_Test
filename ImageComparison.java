@@ -1,4 +1,4 @@
-/*This program displays the scale of difference between two images from any folder.*/
+/*This program displays the scale of difference between two images from any folders.*/
 import java.awt.image.BufferedImage;
 import javax.imageio.ImageIO;
 import java.io.IOException;
